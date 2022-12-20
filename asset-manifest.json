@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/website_pessoal/static/css/main.a0f5e1d5.css",
-    "main.js": "/website_pessoal/static/js/main.0f5151f0.js",
+    "main.css": "/website_pessoal/static/css/main.d67f1584.css",
+    "main.js": "/website_pessoal/static/js/main.5400c33d.js",
     "static/media/kronos_unveiled.mp3": "/website_pessoal/static/media/kronos_unveiled.dbb7f9bd9947e8691738.mp3",
     "index.html": "/website_pessoal/index.html",
-    "main.a0f5e1d5.css.map": "/website_pessoal/static/css/main.a0f5e1d5.css.map",
-    "main.0f5151f0.js.map": "/website_pessoal/static/js/main.0f5151f0.js.map"
+    "main.d67f1584.css.map": "/website_pessoal/static/css/main.d67f1584.css.map",
+    "main.5400c33d.js.map": "/website_pessoal/static/js/main.5400c33d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0f5e1d5.css",
-    "static/js/main.0f5151f0.js"
+    "static/css/main.d67f1584.css",
+    "static/js/main.5400c33d.js"
   ]
 }
