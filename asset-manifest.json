@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/website_pessoal/static/css/main.0f267614.css",
-    "main.js": "/website_pessoal/static/js/main.b3a80437.js",
+    "main.js": "/website_pessoal/static/js/main.2db54288.js",
     "static/media/kronos_unveiled.mp3": "/website_pessoal/static/media/kronos_unveiled.dbb7f9bd9947e8691738.mp3",
     "static/media/profile_photo.png": "/website_pessoal/static/media/profile_photo.5fa0208a94d725db32e8.png",
     "index.html": "/website_pessoal/index.html",
     "main.0f267614.css.map": "/website_pessoal/static/css/main.0f267614.css.map",
-    "main.b3a80437.js.map": "/website_pessoal/static/js/main.b3a80437.js.map"
+    "main.2db54288.js.map": "/website_pessoal/static/js/main.2db54288.js.map"
   },
   "entrypoints": [
     "static/css/main.0f267614.css",
-    "static/js/main.b3a80437.js"
+    "static/js/main.2db54288.js"
   ]
 }
