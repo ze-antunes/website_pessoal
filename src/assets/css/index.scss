@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	background: rgb(255, 241, 201);
+	perspective: 100vmin;
+    font-family: 'Special Elite', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+@import "components/backgroundGrain";
+@import "components/header";
+@import "components/intro";
+@import "components/previousWork";
+@import "components/wheretofind";
