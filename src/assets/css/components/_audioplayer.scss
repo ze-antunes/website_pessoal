@@ -1,0 +1,21 @@
+audio {
+    display: inline-block;
+    width: 150px;
+    overflow-x: visible;
+}
+
+audio::-webkit-media-controls-enclosure {
+    background: none;
+}
+
+audio::-webkit-media-controls-current-time-display {
+    display: none;
+}
+
+audio::-webkit-media-controls-time-remaining-display {
+    display: none;
+}
+
+audio::-webkit-media-controls-timeline {
+    display: none;
+}

@@ -1,6 +1,22 @@
 .intro {
     padding: 20px 40px;
     line-height: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+
+    &__photo {
+        background: rgb(255, 249, 218);
+        padding: 20px 20px 40px 20px;
+        width: fit-content;
+        transform: rotate(2deg);
+        img {
+            width: 100%;
+            min-width: 320px;
+            max-width: 450px;
+            filter: sepia(.8);
+        }
+    }
 }
 
 .redacted span {
@@ -21,5 +37,25 @@
 
     &:hover::after {
         display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .intro {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .intro {
+        flex-direction: column-reverse;
+
+        &__photo {
+            img {
+                width: 100%;
+                min-width: 100%;
+            }
+        }
     }
 }
