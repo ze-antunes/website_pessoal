@@ -1,0 +1,31 @@
+.emailform {
+    display: flex;
+    flex-direction: column;
+
+    &__input {
+        background: none;
+        border-bottom: 1px solid black;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        margin-bottom: 20px;
+    }
+
+    &__textarea {
+        background: none;
+        border-bottom: 1px solid black;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        margin-bottom: 20px;
+        height: 100px;
+    }
+
+    &__send {
+        width: fit-content;
+        padding: 10px;
+        background: black;
+        color: white;
+        align-self: center;
+    }
+}
